@@ -1,0 +1,6 @@
+{
+  "name": "SereneMind",
+  "description": "Modern therapist discovery and mental-wellness platform. Connect with therapists who understand your needs, goals, and pace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
