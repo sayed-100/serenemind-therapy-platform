@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# SereneMind — Mental Wellness & Therapist Discovery Platform
 
-# Run and deploy your AI Studio app
+SereneMind is a responsive frontend web application designed to provide a calm and accessible experience for discovering therapists, exploring wellness resources, and navigating a simple appointment booking flow.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/8285f65a-5a91-4ee0-9371-e999b2f67bf6
+- Responsive design for desktop, tablet, and mobile
+- Therapist discovery and search
+- Therapist profile pages
+- Wellness resources
+- Frontend appointment booking flow
+- Contact form with validation
+- Interactive navigation and UI states
+- Clean and accessible user interface
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML & CSS
+- Vite
 
+## 🚀 Run Locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Clone the repository:
+
+```bash
+git clone https://github.com/sayed-100/serenemind-therapy-platform.git
+```
